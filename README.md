@@ -1,0 +1,1 @@
+This repository demonstrates a common error in Python when calculating the average of a list of numbers. The initial code lacks error handling for non-numeric input, which can lead to runtime errors.  The solution shows how to improve the code by explicitly checking for non-numeric data and handling it gracefully.
